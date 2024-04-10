@@ -1,0 +1,19 @@
+body{
+    font-family: 'barber';
+}
+.site-heading-lower{
+    font-family: monospace;
+}
+.mb-3{font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color:rgb(14, 3, 37) !important
+}
+.section-heading-lower{font-family: monospace;}
+.notyellow{
+    color:black !important;
+}
+.intro-text{ 
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, .5);
+}
+.footer{
+    color: beige;
+}
